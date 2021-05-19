@@ -17,7 +17,7 @@ group :production do
   gem 'pg'
 end
 # Use Puma as the app server
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 4.3'
 gem 'now-ui-kit-rails'
 
 gem 'devise'
